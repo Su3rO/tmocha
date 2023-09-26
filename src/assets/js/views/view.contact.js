@@ -19,7 +19,7 @@ Theme Version:	9.9.3
 		}
 
 		return true;
-	}, 'Please fill this empty field.');
+	}, 'Por favor, rellene este campo vacío.');
 
 	/*
 	Assign Custom Rules on Fields
